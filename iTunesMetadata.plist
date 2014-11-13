@@ -25,6 +25,16 @@
 					<key>url</key>
 					<string>https://github.com/CowanSM/movowave/raw/master/AppIcon-App~iPad%402x.png</string>
 				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.getmovo.waveent</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>subtitle</key>
+					<string>Movo</string>
+					<key>title</key>
+					<string>Wave</string>
+				</dict>
 			</array>
 		</dict>
 	</array>
